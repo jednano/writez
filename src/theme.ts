@@ -1,7 +1,7 @@
 export interface ITheme {
-    primaryColor: string
+	primaryColor: string
 }
 
 export default {
-    primaryColor: '#e9e9e9'
+	primaryColor: '#e9e9e9'
 }
